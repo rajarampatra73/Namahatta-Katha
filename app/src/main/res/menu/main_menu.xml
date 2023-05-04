@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    tools:showIn="navigation_view">
+    <group android:checkableBehavior="none">
+        <item
+            android:id="@+id/nav_home"
+            android:icon="@drawable/baseline_home_24"
+            android:title="@string/menu_home" />
+        <item
+            android:id="@+id/nav_author"
+            android:icon="@drawable/baseline_group_24"
+            android:title="@string/author" />
+
+        <item
+            android:id="@+id/nav_share"
+            android:icon="@drawable/baseline_share_24"
+            android:title="@string/share_aap" />
+        <item
+            android:id="@+id/nav_donation"
+            android:icon="@drawable/donation"
+            android:title="@string/support" />
+
+
+
+    </group>
+    <group android:checkableBehavior="none">
+        <item android:title="@string/app_related">
+            <menu>
+                <item
+                    android:id="@+id/nav_setting"
+                    android:icon="@drawable/baseline_settings_24"
+                    android:title="@string/action_settings" />
+                <item
+                    android:id="@+id/nav_language"
+                    android:icon="@drawable/baseline_g_translate_24"
+                    android:title="@string/language" />
+                <item
+                    android:id="@+id/nav_contact_us"
+                    android:icon="@drawable/help"
+                    android:title="@string/contact_us" />
+                <item
+                    android:id="@+id/nav_feedback"
+                    android:icon="@drawable/baseline_speaker_notes_24"
+                    android:title="@string/feedback" />
+
+            </menu>
+        </item>
+    </group>
+</menu>

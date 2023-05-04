@@ -1,0 +1,470 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources xmlns:tools="http://schemas.android.com/tools">
+    <string name="app_name">Namahatta Katha</string>
+    <string name="nav_header_title">Namahatta Katha</string>
+    <string name="menu_home">Home</string>
+    <string name="action_settings">Settings</string>
+    <string name="feedback">Feedback</string>
+    <string name="feed_noti">Thank for your Feedback</string>
+    <string name="privacy_policy">Privacy Policy</string>
+    <string name="about_gangasagar">About GangaSagar</string>
+    <string name="share_aap">Share</string>
+    <string name="author">Author/Publisher</string>
+    <string name="support">Support Us</string>
+    <string name="contact_us">Contact Us</string>
+    <string name="app_related">App Related</string>
+    <string name="share">*Hare Krishna* This app is designed to expand your devotional life. If you find it helpful, please support us. * Hare Krishna.*</string>
+    <string name="total_help">Total Help :</string>
+    <string name="donation">"Be a part of all missions with your contribution.\n"
+        "Service: Social Welfare, Vedic Cultural Education."</string>
+    <string name="click_here">Click Here</string>
+    <string name="n1">Namahatta Parichay</string>\
+    <string name="n2">"Founder-Acharya of the International Krishna Consciousness Association\n\n" "Sri Krishna Kripasri Murthy\n" "Srila Abhaycharanarabinda Bhaktivedanta Swami Prabhupada\n" "Blessings\n" "Sri Srimat Jayapataka Swami By Guru Maharaj's Instruction Srimat Gaurangprem Swami Edited by Maharaj.\n\n\n" </string>
+    <string name="n3">"Namhotta Directorate\n\n" "ISKCON, Srimayapur, Nadia.\n"</string>
+    <string name="n4">Publisher:</string>
+    <string name="n5">"ISKCON\n\n" "On behalf of Sri Sri Hare Krishna Namhatt\n"
+        "Sri Gourachandra Das Brahmachari\n" "P.S. Srimayapur, Nadia, West Bengal.\n\n"
+        "Phone: (03472) 245294\ n" "Md. 9734615918, 9735354199\n\n\n\n\n"
+        "Revised and enlarged edition 50,000 copies, 2016 Srinrisingh Chaturdashi Tithi\n" </string>
+    <string name="n6">Copyright:</string>
+    <string name="n7">2016 All rights reserved by ISKCON Śrī Śrī Hare Krishna Namahatt</string>
+    <string name="hint_email">E-mail</string>
+    <string name="hint_name">Full name</string>
+    <string name="hint_message">Your message</string>
+    <string name="send_support">Send Message</string>
+    <string name="phone_number">Phone Number</string>
+    <string name="send_your_feedback_successful">Send Your Feedback Successful</string>
+    <string name="whatsapp">WhatsApp</string>
+    <string name="desc">Our help center is always open for suggestions, questions, and other inquiries.</string>
+    <string name="c_feedback">If you benefit from using this app. You can tell us your love on Google Play store.</string>
+    <string name="notification">Notification</string>
+    <string name="extra">Extra</string>
+    <string name="AdsLoaded">Ads are loaded Click again</string>
+    <string name="help_us_by_watching_ads">Help us by watching ads</string>
+    <string name="language">Language</string>
+    <string name="help_us_to_watching_ads">Click here to Help</string>
+    <string name="whoops">Oops… this information is \n  not available at this moment</string>
+    <string name="result_not_found">Result Not Found</string>
+    <string name="s1">Maṅgalācaraṇa</string>
+    <string name="s2">"Maṅgala ārati "</string>
+    <string name="s3">"Darśana ārati "</string>
+    <string name="s4">Gurupūjā</string>
+    <string name="s5">"Bhōga ārati "</string>
+    <string name="s6">"Sandhyā ārati "</string>
+    <string name="s7">"Dāmōdara ārati "</string>
+    <string name="s8">"Prasāda sēbānārarambhē "</string>
+
+    <string name="f1">Maṅgalācaraṇa</string>
+    <string name="f2">" bandēhaṁ śrīgurōḥ śrīyuta
+        padakamalaṁ śrīguruna baiṣṇabānśca śrīrūpaṁ sāgajātaṁ
+        sahagaṇa-raghunāthānbitaṁ taṁ sajībam\n" "sādbaitaṁ sābadhr̥taṁ
+        parijanasahitaṁ kr̥ṣṇacaitan'ya-dēbaṁ śrīrādhā-kr̥ṣṇapādāna
+        sahagaṇa-lalitā-strībiśākhānbitānśca\n\n"</string>
+    <string name="f3">"Śrīguru praṇāma"
+</string>
+    <string name="f4">"Ajñāna-timirāndhasya
+        jñānāñjana śalākaẏā\n"
+        "cakṣurunmīlitaṁ yēna tasmai śrīgurabē namaḥ."
+</string>
+    <string name="f5">"Śrīla prabhupāda praṇati"
+</string>
+    <string name="f6">"Namō ōbiṣṇupadagā kr̥ṣṇaprēṣṭāẏa
+        bhūtalē.\n"
+        "śrīmatē bhaktibēdānta sbāmīni nāmē.\n"
+        "namastē sarasbatī pracāraṇā gauraba dēbē.\n"
+        "mukta nihilisṭa paścima tāra pathē.\n"।
+</string>
+    <string name="f7">"Śrīla bhaktisid'dhānta
+        sarasbatī ṭhākura praṇati\n"
+</string>
+    <string name="f8">"Namō ōm̐ biṣṇupādāẏa
+        kr̥ṣṇaprēṣṭhāẏa bhūtalē\n"
+        "śrīmatē bhaktisid\'dhānta sarasbatīti
+        nāminē\n" "śrībāryabhānabīdēbī-daẏitāẏa kr̥pāraūẏē.\n"
+        "kr̥ṣṇasambandha-bijñānadāẏinē prabhabē namaḥ.\n"
+        "mādhuryōjbala-prēmāḍhya śrīrūpānugabhaktida śrīgaurakaruṇāśakti-bigrahāẏa
+        namōhasta tē\n" "namastē gaurabāṇī-śrīmr̥taẏē dīnatāriṇē.\n"
+        "śrīrūpānugabirud'dhāpa sid'dhānta phyāstahāriṇē \n\n"
+</string>
+    <string name="f9">""Śrīla-gaurakiśōra dāsa bābājī praṇati\n"
+</string>
+    <string name="f10">" Namō gaurakiśōrāẏa
+        sākṣaṇadabairāgāmutaẏē.\n"
+        "biprala'ōrasāstōdhē pādāmbujāẏa tē namaḥ.\n\n"
+</string>
+    <string name="f11">"Śrīla bhaktibinōda ṭhākura praṇati\n"
+</string>
+    <string name="f12">"Namō bhaktibinōdāẏa saccidānanda
+        nāminē. Gauraśaktisbarūpāẏa rūpānugabarāẏa tē.\n\n"
+</string>
+    <string name="f13">"Śrīla jagannātha dāsa bābājī praṇati\n"
+
+</string>
+    <string name="f14">"Śrīgaurābirbhābabhūmēstbaṁ
+        nirdēṣṭā sam'māna priẏaḥ |\n"
+        "baiṣṇaba-sārbbabhauma śrījagathāẏa tē namaḥ.\n\n"
+</string>
+    <string name="f15">"Śrī baiṣṇaba-praṇāma\n"
+</string>
+    <string name="f17">"Śrīgaurāṅga praṇāma\n"
+</string>
+    <string name="f16">"Bāñchākalpatarubhyaśca kr̥pāsindhubhya ēba ca.
+        \n" "patitānāṁ pābanēbhyō baiṣṇabēbhyō namō namaḥ\n\n"
+</string>
+    <string name="f18">"Namō mahābadān'yāẏa kr̥ṣṇaprēma-pradāẏa tē.\n"
+        "kr̥ṣṇāẏa kr̥ṣṇacaitan'ya nāmē gauratbiṣē namaḥ.\n\n"
+</string>
+    <string name="f19">"Pañcatattba praṇāma\n"
+</string>
+    <string name="f20">"Pañcatattbātmakaṁ kr̥ṣṇaṁ bhaktarūpambarūpakam.\n"
+        "bhaktābatāraṁ bhaktākhyaṁ namāmi bhaktaśaktikam.\n\n"
+</string>
+    <string name="f21">"Śrīkr̥ṣṇa praṇāma\n"
+</string>
+    <string name="f22">"Hē kr̥ṣṇa karuṇāsindhō dīnabandhō jagaṯpatē.\n"
+"Gōpēśa gōpikākānta rādhākānta namōhastu tē.\n\n"
+
+       </string>
+    <string name="f23">"Śrīrādhāra praṇāma
+\n"</string>
+    <string name="f24">"Tapta kāñcana-gaurāṅgī rādhē br̥ndābanēśbarī.
+        \n" "br̥ṣabhānusutē dēbī praṇamāmi haripriẏē\n\n"
+</string>
+    <string name="f25">"Sambandhādhidēba praṇāma\n"
+</string>
+    <string name="f26">"Jaẏatāṁ suratau palōmama manda matēgatī.\n"
+        "maṯsabarṣa padāstōjau rādhā-madanamōhanau\n\n"
+</string>
+    <string name="f27">"Abhidhēẏādhidēba praṇāma\n"
+</string>
+    <string name="f28">"Dībāda-br̥ndāraṇya-kalpadrumādhaḥ\n"
+        "śrīmadūratnāgāra sinhāsanathau\n"
+        "śrīśrīrādhā-śrīla gōbindadēbau\n"
+        "prēṣṭhālībhiḥ sēbyamānau smarāmi.\n"
+</string>
+    <string name="f29">"Praẏōjanādhidēba praṇāma\n"
+</string>
+    <string name="f30">"Śrīmāna rāsa-rasārajī banśībaṭa-taṭasthitaḥ.\n " "karṣana bēṇu-sbanaigōpīgōpīnāthaḥ śriẏē nā ।।\n \n"
+</string>
+    <string name="f31">"Pañcatattba mahāmantra\n"
+ </string>
+    <string name="f32">"(Jaẏa) śrīkr̥ṣṇacaitan'ya prabhu nityānanda.\n " "śrī'adbaita gadādhara śrībāsādi gaurabhaktabr̥nda\n\n"
+</string>
+    <string name="f33">"Harē kr̥ṣṇa mahāmantra\n"
+ </string>
+    <string name="f34" tools:ignore="Typos">"Harē kr̥ṣṇa harē kr̥ṣṇa kr̥ṣṇa kr̥ṣṇa harē harē.\n " "harē rāma harē rāma rāma rāma harē harē."
+</string>
+    <string name="c1" translatable="false">"Śrīśrī gurbāṣṭakama\n"
+</string>
+    <string name="c2" translatable="false"> "Sansāra-dābānala-līṛha lōka
+        trāṇāẏa kāruṇyaghanāghanatbam.\n"
+        "prāptasya kalyāṇa-guṇārṇabasya bandē gurōḥ śrīcaraṇārabindam 1\n"
+        " mahāprabhōḥ kīrtana-nr̥tya-gīta bāditramādyanmanasō rasēna.\n"
+        "rōmāñca kampāśru-taraṅgabhājō bandē gurōḥ śrīcaraṇārabindam 2\n"
+        "śrībigrahārādhana-nitya-nānā śr̥ṅgāra-tanmandira mārjanādau.\n"
+        "yuktasya bhaktānśca niyuñjatō̕pi bandē gurōḥ śrīcaraṇārabindam 3\n"
+        "caturbidha śrībhagabaṯprasāda sbādbannatr̥ptān haribhaktasaṅghān.\n"
+        "kbatbaiba tr̥ptiṁ bhajataḥ sadaiba bandē gurōḥ śrīcaraṇārabindam 4\n"
+        "śrīrādhikāmādhabaẏōrapāra mādhuryalīlā guṇa-rūpa-nānaām.\n"
+        "pratikṣaṇāsbādana-lōlupasya bandē gurōḥ śrīcaraṇārabindam. 5\n"
+        "nikuñjayunō ratikēlisid'dhyai yā yālibhiyuktirapēkṣaṇīẏā.\n"
+        "tatrātidākṣādatiballabhasya bandē gurōḥ śrīcaraṇārabindam 6\n"
+        "sākṣād'dharitbēna samastaśāstraai ruktastathā bhābyata ēba sadbhiḥ
+        kintu prabhōryaḥ priẏa ēba tasya bandē gurōḥ śrīcaraṇārabindama 7\n"
+        "yasya prasādābhagabaṯ-prasādō yasyāprasādānna gatiḥ kutō̕pi\n"
+        "dhyāẏanstabanstasya yaśastrī-sandhyaṁ bandē gurōḥ śrīcaraṇārabindama 8\n"
+        "—śrīla biśbanātha cakrabartī ṭhākura\n\n"
+</string>
+    <string name="c3" translatable="false">"Śrīla prabhupāda praṇati\n"
+ </string>
+    <string name="c4" translatable="false">
+        "Namō ōm̐biṣṇupādāga kr̥ṣṇapraēṣṭhāẏā bhūtalē.\n"
+        "śrīmatē bhaktibēdānta sbāmīniti nāminē\n"
+        "namastē sārasbatē dēbē gaurabāṇī pracāriṇē.\n"
+        "nirbiśēṣa śūn'yabādī pāścātyadēśa tāriṇē..\n\n"
+</string>
+    <string name="c5" translatable="false"> "Pañcatattba mahāmantra\n"
+</string>
+    <string name="c6" translatable="false">"(Jaẏa)
+        śrīkr̥ṣṇacaitan'ya prabhu nityānanda.\n"
+        "śrī'adbaita gadādhara śrībāsādi gaurabhaktabr̥nda\n\n"
+</string>
+    <string name="c7" translatable="false">"Harē kr̥ṣṇa mahāmantra\n"</string>
+    <string name="c8" translatable="false">"Harē kr̥ṣṇa harē kr̥ṣṇa kr̥ṣṇa kr̥ṣṇa harē harē.\n " "harē rāma harē rāma rāma rāma harē harē."</string>
+    <string name="c9" translatable="false"> "Śrīnr̥sinhadēbēra staba ō praṇāma\n"
+</string>
+    <string name="c10" translatable="false">"Namastē narasinhāẏa prahlādāhlāda-dārinē|\n"
+        "hiraṇyakaśipōrbakṣaḥ śilāṭaṅka-nakhālaẏē\n"
+        "itō nr̥sinhaḥ paratō nr̥sinhō.\n"
+        "yatō yatō yāmi tatō nr̥sinhaḥ\n"
+        "bar'hinr̥sinhō hr̥daẏē nr̥sinhō.\n"
+        "nr̥sinhamādiṁ śaraṇaṁ prapadyē\n"
+        "taba karakamalabarē nakhamadbhutaśr̥ṅgaṁ dalitahiraṇyakaśiputanubhūṅgam \n"
+        "kēśaba dhr̥ta-naraharirūpa jaẏa jagadīśa harē.\n"
+</string>
+    <string name="c11" translatable="false">"Tulasī sēbā\n"
+ </string>
+    <string name="c12" translatable="false">"Śrītulasī ārati kīrttana\n"
+        "namō namaḥ tulasī! Kr̥ṣṇaprēẏasī! Rādhākr̥ṣṇa-sēbā pāba ē'i abhilāṣī\n"
+        "yē tōmāra śaraṇa laẏa, tāra bāñchā pūrṇa haẏa,
+        kr̥pā kari kara tārē br̥ndābana bāsī.\n"
+        "mōra ē'i abhilāṣa, bilāṣa-kuñjē di'ō bāsa,
+        naẏanē hēriba sadā yugalarūparāśi \n"
+        "ē'i nibēdana dhara, sakhīra anugata kara,
+        sēbā-adhikāra diẏē kara nija dāsī.\n" "dīna kr̥ṣṇadāsē kaẏa,
+        ē'i yēna mōra haẏa, śrīrādhāgōbinda-prēmē sadā yēna bhāsi"\n\n"
+
+</string>
+
+    <string name="t" translatable="false">"Śrīnr̥sinhadēbēra staba\n"
+</string>
+    <string name="t1" translatable="false"> "Jaẏa nr̥sinha śraī nr̥sinha.\n"
+        "jaẏa jaẏa jaẏa śrīnr̥sinha.\n"
+        "ugraṁ bīraṁ mahābiṣṇuṁ jbalantaṁ sarbatōmukham.\n"
+        "nr̥sinhaṁ bhīṣaṇaṁ bhadraṁ mr̥tyōmr̥tyuṁ namāmyaham\n"
+        "śrīnr̥sinha jaẏa nr̥sinha jaẏa jaẏa nr̥sinha.\n"
+        "prahlādēśa jaẏapadmamukha padmabhr̥ṅgaṁ\n"
+        "taba karakamalabarē nakhamadbhutaśr̥ṅgaṁ dalitahiraṇyakaśiputanubhūṅgam.\n"
+        "kēśaba dhr̥ta-naraharirūpa jaẏa jagadīśa harē.\n\n"
+</string>
+    <string name="t2" translatable="false">
+        "śrīśrīpañcatatba darśana\n"
+</string>
+    <string name="t3" translatable="false"> "Śrīkr̥ṣṇacaitan'ya prabhu daẏā
+        kara mōrē. Tōmā binā kē daẏālu jagaṯ-sansārē\n"
+        "patitapābana hētu taba abatāra.\n"
+        "mō sama patita prabhu nā pā'ibē āra\n"
+        "hā hā prabhu nityānanda! Prēmānanda sukhī\n"
+        "kr̥pābalōkana kara āmi baṛa duḥkhī\n"
+        "daẏā kara sītāpati adbaita gōsāñi\n"
+        "taba kr̥pābalē pā'i caitan'ya-nitā'i\n"
+        "hā-hā sbarūpa, sanātana, rūpa, raghunātha.\n"
+        "bhaṭṭayuga, śrījība, hā prabhu lōkanātha.\n"
+        "daẏā kara śrī ācārya prabhu śrīnibāsa.\n"
+        "rāmacandrasaṅga māgē narōttama dāsa.\n\n"
+</string>
+    <string name="t4" translatable="false">"Śrīśrīrādhāmādhaba darśana\n"
+</string>
+    <string name="t5" translatable="false"> "Gōbindamādipuruṣaṁ tamahaṁ bhajāmi
+        (tinabāra)\n"
+        "bēṇuṁ kbaṇattamarabindadalāẏatākṣaṁ bahābatansamasitāmbudasundarāṅgam.\n"
+        "kandarpakōṭikamanīẏabiśēṣaśōbhaṁ gōbindamādipuruṣaṁ tamahaṁ bhajāmi\n"
+        "Aṅgāni yasya sakalēndriẏabr̥ttimatti\n"
+        "paśyanti pānti kalaẏasti ciraṁ jaganti.\n"
+"Ānanda cinmaẏa sadujjbala bigrahasya\n" "
+
+        Gōbindamādipuruṣaṁ tamahaṁ bhajāmi \n"
+        "(śrīśrī brahmasanhitā ślōka 30, 32)\n\n"
+</string>
+
+    <string name="q" translatable="false">"Śrīguru bandanā\n"
+ </string>
+    <string name="qq" translatable="false"> "Śrīgurucaraṇapanna kēbala bhakati
+        sam'ma, bandō muñi sābadhāna matē.\n"
+        "yām̐hāra prasādē bhā'i, ē bhaba tariẏā yā'i,
+        kr̥ṣṇa-prāpti haẏa yām̐hā ha'tē.\n"
+        "ō-mukhapadma-bākya cittētē kariẏā aikya,
+        āra nā kariha manē āśā śrīguru-caraṇē rati,
+        ē'i sē uttama-gati, yē prasādē purē sarba āśā\n"
+        "cakṣu-dāna dila yē'i, janmē janmē prabhu sē'i,
+        dibyajñāna hr̥dē prakāśita\n" "praēma-bhakti yām̐hā haitē,
+        abidyā-bināśa yātē, bēdē gāẏa yām̐hāra carita.\n"
+        "śrīguru karuṇā-sindhu, adhama-janāra bandhu,
+        lōkanātha lōkēra jībana. Hā hā prabhu kara daẏā dēha mōrē padachāẏā,
+        ēbē yaśa ghuyuka tribhubana\n\n"
+</string>
+    <string name="w" translatable="false">"Bhōga ārati\n"
+</string>
+    <string name="w1" translatable="false">"Bhaja bhakatabaṯsala śrīgaurahari.\n"
+        "śrīgaurahari sōhi gōṣṭhabihārī, nanda-yaśōmatī-cittahāri.1.\n"
+        "bēlā halō dāmōdara, ā'isa ēkhana.\n"
+        "bhōga-mandirē basi’ karaha bhōjana 2\n"
+        "nandēra ni-dēśē baisē giribaradhārī.\n"
+        "baladēba-saha sakhā baisē sāri sāri.3.\n"
+        "śukatā-śākādi bhāji nālitā kuṣmāṇḍa.\n"
+        "ḍāli ḍālanā dugdhatumbī dadhi mōcākhaṇḍa. 4.\n"
+        "mugabaṛā māṣabaṛā rōṭikā ghr̥tānna.\n"
+        "śaṅkulī piṣṭaka kṣīra pulī pāẏasānna.5\n"
+        "karpūra amr̥takēlī rambhā kṣīrasāra.\n"
+        "amr̥ta rasālā, amla dbādaśa prakāra 6\n"
+        "luci cini sarapurī lāḍḍu rasābalī.\n"
+        "bhōjana karēna śrīkr̥ṣṇa ha’ẏē kutūhalī.7.\n"
+        "rādhikāra pakka anna bibidha byañjana.\n"
+        "parama ānandē kr̥ṣṇa karēna bhōjana.8.\n"
+        "chalē-balē lāḍḍu khāẏa śrīmadhumaṅgala.\n"
+        "bagala bājāẏa, āra dēẏa haribōla.9.\n"
+        "rādhikādi gaṇē hēri’ naẏanēra kōṇē.\n"
+        "tr̥pta ha’ẏē khāẏa kr̥ṣṇa yaśōdā-bhabanē 10\n"
+        "bhōjanāntē piẏē kr̥ṣṇa subāsita bāri.\n"
+        "sabē mukha prakṣālaẏa ha’ẏē sāri sāri 11\n"
+        "hasta-mukha prakṣāliẏā yata sakhāgaṇē.\n"
+        "ānandē biśrāma karē baladēba sanē 12\n"
+        "jambula rasāla ānē tāmbula masālā.\n"
+        "tāhā khēẏē kr̥ṣṇacandra sukhē nidrā gēlā 13\n"
+        "biśālākṣa śikhi-puccha cāmara ḍhulāẏa.\n"
+        "apūrba śayyāẏa kr̥ṣṇa sukhē nidrā yāẏa 14.\n"
+        "yaśōmatī-ājñā pēẏē dhaniṣṭhā-ānīta.\n"
+        "śrīkr̥ṣṇaprasāda rādhā bhūñjē ha’ẏē praīta.15.\n"
+        "lalitādi sakhīgaṇa abaśēṣa pāẏa.\n"
+        "manē manē sukhē rādhā-kr̥ṣṇaguṇa gāẏa 16\n"
+        "hari-līlā ēkamātra yām̐hāra pramōda |\n"
+        "bhōgārati gāẏa sē'i bhakatibinōda 17\n\n"
+
+</string>
+    <string name="w2" translatable="false">"Śrīnāma-kīrtana\n"
+ </string>
+    <string name="w3" translatable="false">"1\n"
+        "jaẏa jaẏa gōbinda gōbinda gōpāla, girīdhārī gōpī-nātha nanda-dulāla.
+        Jaẏa jaẏa gōbinda gōbinda gōpāla nanda-dulāla kr̥ṣṇa yaśōdā-dulāla.
+        Jaẏa jaẏa gōbinda gōbinda gōpāla girī-dhārī gōpī-nātha yaśōdā-dulāla,
+        yaśōdā-dulāla kr̥ṣṇa śacīra-dulāla. Jaẏa jaẏa gōbinda gōbinda gōpāla
+        girī-dhārī gōpī-nātha śacīra-dulāla, śacīra-dulāla jaẏa gaura gōpāla
+        jaẏa jaẏa gōbinda gōbinda gōpāla \n" "2\n"
+        "yaśōmati-nandana,brajabara-nāgara,
+        gōkularañjana kāna gōpī-parāṇa-dhana,
+        madana-manōhara, kāliẏadamana bidhāna 1\n"
+        "amala harināma amiẏa-bilāsā bipina-purandara,
+        nabīna nāgarabara, banśībadana subāsā 2\n"
+        "brajajana-pālana, asurakula-nāśana,
+        nanda-gōdhana-rākha'ōẏālā gōbinda mādhaba,
+        nabanīta-taskara, sundara nandagōpālā.3.\n"
+        "yāmunataṭacara, gōpī-basanahara, rāsa-rasika,
+        kr̥pāmaẏa. Śrīrādhāballabha, br̥ndābana naṭabara, bhakatibinōda āśraẏa.4.\n\n"
+</string>
+    <string name="ss" translatable="false">"Tulasī sēbā\n"
+        "śrītulasī ārati kīrttana\n"
+</string>
+    <string name="ss1" translatable="false">  "Namō namaḥ tulasī!
+        Kr̥ṣṇaprēẏasī! Rādhākr̥ṣṇa-sēbā pāba ē'i
+        abhilāṣī\n" "yē tōmāra śaraṇa laẏa, tāra bāñchā pūrṇa haẏa,
+        kr̥pā kari kara tārē br̥ndābana bāsī.\n"
+        "mōra ē'i abhilāṣa, bilāṣa-kuñjē di'ō bāsa, naẏanē hēriba sadā
+        yugalarūparāśi..\n" "ē'i nibēdana dhara, sakhīra anugata kara,
+        sēbā-adhikāra diẏē kara nija dāsī.\n"
+        "dīna kr̥ṣṇadāsē kaẏa, ē'i yēna mōra haẏa, śrīrādhāgōbinda-prēmē
+        sadā yēna bhāsi\n\n"
+</string>
+    <string name="ss2" translatable="false"> "Śrīśrīgaura-ārati\n"
+</string>
+    <string name="ss3" translatable="false">"Jaẏa jaẏa gōrācam̐ādēra āratikō śōbhā.\n"
+        "jāhnabī-taṭabanē jagamanōlōbhā 1\n"
+        "dakṣiṇē nitā'icam̐āda, bāmē gadādhara.\n"
+        "nikaṭē adbaita, śrīnibāsa chatradhara 2\N n"
+        "basiẏāchē gōrācam̐āda ratnasinhāsanē.\n"
+        "ārati karēna brahmā-ādi dēbagaṇē 3\n" "narahari-ādi kari’
+        cāmara ḍhulāẏa.\n" "sañjaẏa-mukunda-bāsughōṣa-ādi gāẏa 4\n"
+        "śaṅkha bājē, ghanṭā bājē, bājē karatāla.\n"
+        "madhura mr̥daṅga bājē parama rasāla 5\n"
+        "bahukōṭi candra jini’ badana ujjbala.\n"
+        "galadēśē banamālā karē jhalamala 6\n"
+        "śiba-śuka-nārada prēmē gadagada \n"
+        "bhakatibinōda dēkhē gōrāra sampada 7\n"
+</string>
+    <string name="ss4" translatable="false"> ""Śrīnr̥sinhadēbēra staba ō praṇāma\n"
+</string>
+    <string name="ss5" translatable="false"> "Namastē narasinhāẏa
+        prahlādāhlāda-dāẏinē.\n"
+        "hiraṇyakaśipōrbakṣaḥ śilāṭaṅka-nakhālaẏē\n"
+        "itō nr̥sinhaḥ paratō nr̥sinhō yatō yatō yāmi tatō nr̥sinhaḥ\n"
+        "bar'hinr̥sinhō hr̥daẏē nr̥sinhō. Nr̥sinhamādiṁ śaraṇaṁ prapadyē\n"
+        "taba karakamalabarē nakhamadbhutaśr̥ṅgaṁ dalitahiraṇyakaśiputanubhūṅgam.\n"
+        "kēśaba dhr̥ta-naraharirūpa jaẏa jagadīśa harē\n\n"
+</string>
+    <string name="d" translatable="false"> "Śrīdāmōdarāṣṭakam\n"
+</string>
+    <string name="d1" translatable="false"> "Namāmīśbaraṁ saccidānandarūpaṁ
+        lasaṯ-kuṇḍalaṁ gōkulē bhraājamānam.\n"
+        "yaśōdābhiẏōlūkhalābdhābamānaṁ parāmr̥ṣṭamatyaṁ tatō drutya gōpyā 1\n"
+        "rudattaṁ muhurnētrayugmaṁ mr̥jantaṁ karābhōjayugmēna sātaṅkanētram.\n"
+        "muhuḥśbāsakampa trirēkhāṅkakaṇṭha sthita-graiba-dāmōdaraṁ bhuktibad'dham 2\n"
+        "itīdr̥k sbalīlābhirānandakuṇḍē sbaghōṣaṁ nimajjantamākhyāpaẏantam.\n"
+        "tadīẏēśitajñēṣu bhaktairjitatbaṁ punaḥ prēmatastaṁ śatābr̥tti bandē 3\n "
+        "baraṁ dēba! Mōkṣanna mōkṣābadhiṁ bā na cān'yaṁ br̥ṇē̕haṁ
+        barēśādapīha idattē bapu nātha gōpālabālaṁ sadā mē
+        manasyābirāstāṁ kiman'yaiḥ.4.\n"
+        "idantē mukhāmbhōjamabyaktanīlai
+        br̥taṁ kumbhalaiḥ snigdha-raktaiśca gōpyā.\n"
+        "muhuścambitaṁ bimba-raktādharaṁ mē manasyābirāstāmalaṁ lakṣalābhaiḥ 5\n"
+        "namō dēba! Dāmōdaranasta! Biṣṇō! Prasīda prabhō duḥkhajālākkimagnam.\n"
+        "kr̥pādr̥ṣṭi-br̥ṣṭyātidīnaṁ batānu gr̥hāṇēśa! Mārmajñamēdhyakṣi dr̥śyaḥ 6 \n"
+        "kubērātmajau bad'dhamūrtyaiba yadbaṯ tbaẏā mōcitau bhaktibhājau kr̥tau
+        tathā prēmabhaktiṁ sbakāṁ mē prayaccha namōkṣē grahōmē̕sti dāmōdaraēha 7\n"
+        "namastē̕stu dāmnē sphuraddīpti-dhāmnē tbadīẏōdarāẏātha biśbasya dhāmnē.V
+        "namō rādhikāẏai tbadīẏa-priẏāẏai namōnanta-līlāẏa dēbāẏa tubhyam 8\n"
+</string>
+    <string name="d2" translatable="false">"Gōsbāmī gaṇēra bigrahadēra nāmasmaraṇa\n"
+ </string>
+    <string name="d3" translatable="false">"(1)\n"
+        "jaẏa rādhā mādhaba rādhā mādhaba rādhē jaẏadēbēra prāṇadhana hē\n"
+        "(2)\n" "jaẏa rādhā-dāmōdara rādhā-dāmōdara rādhē jība gōsbāmīra prāṇadhana
+        hē\n"
+        "(3)\n" "jaẏa rādhā-madanamōhana rādhā-madanamōhana rādhē sanātanēra
+        prāṇadhana hē\n" "(8 )\n"
+        "jaẏa rādhā-gōbinda rādhā-gōbinda rādhē rūpa gōsbāmīra prāṇadhana hē\n"
+        "(5)\n" "jaẏa rādhā-gōpīnātha rādhā-gōpīnātha rādhē madhu paṇḍitēra
+        prāṇadhana hē jaẏa rādhā-madanagōpāla rādhā madanagōpala rādhē sītānāthēra
+        prāṇadhana hē\n" "(7)\n" "jaẏa rādhā-ramaṇa rādhā-ramaṇa rādhē gōpāla
+        bhaṭṭēra prāṇadhana hē\n" "(8)\n" "jaẏa rādhā-binōda rādhā-binōda rādhē
+        lōkanāthēra prāṇadhana hē\n" "(9)\n"
+        "jaẏa rādhā-gōkulānanda rādhā-gōkulānda rādhē biśbanāthēra prāṇadhana hē\n"
+        "(10)\n" "jaẏa rādhā-giridhārī rādhā-giridhārī rādhē dāsa gōsbāmīra
+        prāṇadhana hē\n" "(11)\n" "jaẏa rādhā-śyāmasundara rādhā-śyāmasundara
+        rādhē śyāmānandēra prāṇadhana hē\n" "(12)\n" "jaẏa rādhā-bandhubihārī
+        rādhā-bandhubihārī rādhē haridāsēra prāṇadhana hē\n" "(13)\n"
+        "jaẏa rādhā-kānta rādhā-kānta rādhē bakrēśbarēra prāṇadhana hē\n"
+        "(14)\n" "jaẏa gāndhārbikā-giridhārī gāndhārbikā-giridhārī rādhē
+        sarasbatīra prāṇadhana hē\n" "(15)\n" "jaẏa rādhā mādhaba rādhā
+        mādhaba rādhē śrīla prabhupādēra prāṇadhana hē\n\n"
+</string>
+    <string name="eeee" translatable="false">"Prasāda-sēbanārambhē\n"</string>
+    <string name="eeeeee" translatable="false"> "Mahāprasādē gōbindē,
+        nāma-brahmaṇi baiṣṇabē\n" "sbalpa-puṇya batāṁ rājana biśbāsa naiba
+        jāẏatē\n" "śarīra abidyā-jāla jaṛēndriẏa tāhē kāla\n"
+        "jībē phēlē biṣaẏa-sāgarē.\n"
+        "tā’ra madhyē jihbā ati, lōbhamaẏa sudurmati,\n"
+        "tā’kē jētā kaṭhina sansārē\n" "kr̥ṣṇa baṛa daẏāmaẏa,karibārē jihbā jaẏa,\n"
+        "sbaprasāda-anna dilā bhā'i.\n"
+        "sē'i annāmr̥ta pā'ō rādhākr̥ṣṇa guṇa gā'ō, prēmē ḍāka caitan'ya nitā'i\n\n"
+</string>
+
+    <string name="sri">"Cētōdarpaṇamārjanaṁ bhabamahādābāgni-nirbāpaṇaṁ\n"
+       "śrēẏaḥkairabacandrikābitaraṇaṁ bidyābadhūjībanam.\n"
+        "ānandāmbudhibardhanaṁ pratipadaṁ pūrṇāmr̥tāsbādanaṁ\n"
+        "arvatmannapanang Parang Bijayate Shri Krišna Kirtan .1\n\n"
+
+        "Nānnāmakāri bahudhā nijasarbaśakti-\n"
+       "statrārpitā niẏamitaḥ smaraṇē na kālaḥ .\n"
+        "ētādr̥śī taba kr̥pā bhagabanmamāpi\n"
+        "durdaibamīdr̥śamihājani nānurāgaḥ. 2\n\n"
+        "Tr̥ṇādapi sunīcēna tarōrapi sahiṣṇuṇā.\n"
+        "amāninā mānadēna kīrtanīẏaḥ sadā hariḥ .3.\n \n"
+       "Na dhanaṁ na janaṁ na sundarīṁ kabitāṁ\n"
+        "bā jagadīśa kāmaẏē\n"
+        "mama janmani janmanīśbarē\n"
+        "bhabatādbhaktirahaitukī tbaẏi 4\n\n"
+        "Aẏi nanda tanuja kiṅkara\n"
+        "patitaṁ māṁ biṣamē bhabāmbudhau.\n"
+        "kr̥paẏā taba pādapaṅkaja\n"
+        "Sthitadhūlī sadr̥śaṁ chinta 5\n\n"
+        "Naẏanaṁ galadaśrudhāraẏā badanaṁ gadzwnjgadarud'dhaẏā girā.\n"
+        "pulakairnicitaṁ bapuḥ kadā taba nāmagrahaṇē bhabiṣyati 6\n\n"
+        "Yugāẏitaṁ nimēṣēṇa cakṣuṣā prābr̥ṣāẏitam.\n"
+        "śūn'yāẏitaṁ jagaṯ sarbaṁ gōbindabirahēṇa mē .7.\n \n"
+        "Āśiṣya bā pādaratāṁ pinaṣṭu mā\n"
+        "madarśanānmarmahatāṁ karōtu bā.\n"
+        "yathā tathā bā bidadhātu lampaṭō\n"
+        "maṯprāṇanāthastu sa ēba nāparaḥ 8\n\n"</string>
+    <string name="h2">Maṅgalācaraṇa</string>
+    <string name="h3">"Darśana ārati "</string>
+    <string name="h4">Gurupūjā</string>
+    <string name="h5">"Bhōga ārati "</string>
+    <string name="h6">"Sandhyā ārati "</string>
+    <string name="h7">"Dāmōdara ārati "</string>
+    <string name="h8">"Prasāda sēbānārarambhē "</string>
+    <string name="h9">"Śrīśikṣāṣṭakam "</string>
+    <string name="welcome">Welcome to Namahatta Katha App.</string>
+    <string name="intro_desc">We will handle Basic Education for you. As you have the app in your pocket when you don\'t have to worry about anything.</string>
+    <string name="language_desc">Added multiple languages to this app and it\'s very easy and straightforward to use.</string>
+    <string name="qna_desc">Single click to view questions and answers.</string>
+
+</resources>

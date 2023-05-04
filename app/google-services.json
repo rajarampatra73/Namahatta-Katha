@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "850008637011",
+    "firebase_url": "https://namahatta-katha-2600e-default-rtdb.firebaseio.com",
+    "project_id": "namahatta-katha-2600e",
+    "storage_bucket": "namahatta-katha-2600e.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:850008637011:android:44ccf7366552d1545ed0a6",
+        "android_client_info": {
+          "package_name": "com.Gangasagar.namahatta_katha"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "850008637011-v2q8erthku92febn50ohoqdsvu7c6g2d.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyArr7_896VeGL6gc1dkiAB0PP4DKGoLw9E"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "850008637011-v2q8erthku92febn50ohoqdsvu7c6g2d.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
