@@ -21,6 +21,10 @@ import com.google.firebase.database.DatabaseReference;
 import com.google.firebase.database.FirebaseDatabase;
 import com.google.firebase.database.ValueEventListener;
 
+import org.imaginativeworld.oopsnointernet.callbacks.ConnectionCallback;
+import org.imaginativeworld.oopsnointernet.dialogs.signal.DialogPropertiesSignal;
+import org.imaginativeworld.oopsnointernet.dialogs.signal.NoInternetDialogSignal;
+
 public class WebActivity extends AppCompatActivity {
     private WebView webView;
 
@@ -32,6 +36,38 @@ public class WebActivity extends AppCompatActivity {
         super.onCreate(savedInstanceState);
         setContentView(R.layout.activity_web);
 
+        // No Internet Dialog: Signal
+        NoInternetDialogSignal.Builder builder = new NoInternetDialogSignal.Builder(
+                this,
+                getLifecycle()
+        );
+
+        DialogPropertiesSignal properties = builder.getDialogProperties();
+
+        properties.setConnectionCallback(new ConnectionCallback() { // Optional
+            @Override
+            public void hasActiveConnection(boolean hasActiveConnection) {
+                // ...
+            }
+        });
+
+        properties.setCancelable(false); // Optional
+        properties.setNoInternetConnectionTitle("No Internet"); // Optional
+        properties.setNoInternetConnectionMessage("Check your Internet connection and try again"); // Optional
+        properties.setShowInternetOnButtons(true); // Optional
+        properties.setPleaseTurnOnText("Please turn on"); // Optional
+        properties.setWifiOnButtonText("Wifi"); // Optional
+        properties.setMobileDataOnButtonText("Mobile data"); // Optional
+
+        properties.setOnAirplaneModeTitle("No Internet"); // Optional
+        properties.setOnAirplaneModeMessage("You have turned on the airplane mode."); // Optional
+        properties.setPleaseTurnOffText("Please turn off"); // Optional
+        properties.setAirplaneModeOffButtonText("Airplane mode"); // Optional
+        properties.setShowAirplaneModeOffButtons(true); // Optional
+
+        builder.build();
+
+
         if (getSupportActionBar() != null)
             getSupportActionBar().setDisplayHomeAsUpEnabled(true);
 
@@ -42,6 +78,7 @@ public class WebActivity extends AppCompatActivity {
         getSupportActionBar().setDisplayHomeAsUpEnabled(true);
 
         dialog = new LottiDialog(WebActivity.this);
+        dialog.setCanceledOnTouchOutside(true);
         dialog.show();
         webView = (WebView) findViewById(R.id.about_web);
 

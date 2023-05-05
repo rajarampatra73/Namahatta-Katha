@@ -88,6 +88,8 @@ dependencies {
 // Gradle dependency on Shimmer for Android
 
     implementation 'com.facebook.shimmer:shimmer:0.5.0'
+    // no internet
+    implementation 'org.imaginativeworld.oopsnointernet:oopsnointernet:2.0.0'
 
 
 }
